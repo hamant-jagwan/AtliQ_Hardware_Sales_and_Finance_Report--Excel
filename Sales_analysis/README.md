@@ -21,3 +21,13 @@ so we complete our data cleaning checklists which are -
 * Ensure there is no error/#na in the column
 * Check spelling randomly
 5. so we are ready to use 'close and load'--> select 'only create connection'
+
+## building report 
+1. Changing the Big amount in small number--> value Field settings--> number format -->custom and change the length of amount like 2,456,234 to 2M.
+2. some cleaning work with 'View' tab like page layout, etc
+3. Some 'design' tab work to make our report beautiful.
+4. Using `Condtional formatting` to highlight numbers.
+5. To insert a LOGO use 'Header Footer'
+6. And you are ready to apply filters and get what ever you want like I use This AtliQ hardware data to get INDIA sales.
+
+
