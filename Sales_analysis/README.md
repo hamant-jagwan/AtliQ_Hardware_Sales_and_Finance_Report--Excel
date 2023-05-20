@@ -22,13 +22,26 @@ so we complete our data cleaning checklists which are -
 * Check spelling randomly
 5. so we are ready to use 'close and load'--> select 'only create connection'
 
-## building report 
+## Building Report 
+### Customer Performance Report
 1. Changing the Big amount in small number--> value Field settings--> number format -->custom and change the length of amount like 2,456,234 to 2M.
-2. some cleaning work with 'View' tab like page layout, etc
+2. some cleaning work with the 'View' tab like page layout, etc
 3. Some 'design' tab work to make our report beautiful.
 4. Using `Condtional formatting` to highlight numbers.
 5. To insert a LOGO use 'Header Footer'
-6. And you are ready to apply filters and get what ever you want like I use this AtliQ hardware data to get **INDIA SALES.** 
+6. And you are ready to apply filters and get whatever you want like I use this AtliQ hardware data to get **INDIA SALES.** 
 ![India sales](https://github.com/hamant-jagwan/Excel_analysis/assets/117731315/4c7bb4a1-cb93-4061-befa-57d54f51f93a)
+
+### Market Performance VS Target Report
+netsales_targets_2021: https://drive.google.com/drive/u/0/folders/1kODw9JqK2IaG44-yST7vS3hab7a-M-Tu
+1. We copy our previous sheet -->Right click on the sheet option--> Select Move or copy--> Move to end--> Create copy and rename it 'market performance vs target'
+2. Changing the fields of data with the help of `PivotTable`
+3. Now it is time to add my 'netsales_targets_2021'data into my existing data--> Open the 'Data' tab--> Get Data --> From file--> From text/CSV and import it.
+4. Then we click on Transform data--> This option will take us to `Power Query`--> Data looks clean so we close and load in our existing file and choose 'only create connection' and check the box.
+5. Now it is time to use `Power Pivot`-->click manage and establish the relation with another column --> click diagram View and connect the fields
+6. After connection, we added measures in our table and field to our `PowerPivot`.
+7. Then we change our values by clicking in the value field and converting numbers in million like 2,456,234 to 2M.
+8. We successfully added our '2021 - Target' column, now we add another column to make our report which is '%' and doing some `Conditional Formatting ` 
+9. Finally we go to the 'View' Tab -->  and use the page layout to print this report.
 
 
