@@ -43,5 +43,6 @@ netsales_targets_2021: https://drive.google.com/drive/u/0/folders/1kODw9JqK2IaG4
 7. Then we change our values by clicking in the value field and converting numbers in million like 2,456,234 to 2M.
 8. We successfully added our '2021 - Target' column, now we add another column to make our report which is '%' and doing some `Conditional Formatting ` 
 9. Finally we go to the 'View' Tab -->  and use the page layout to print this report.
+![sales performance vs target](https://github.com/hamant-jagwan/Excel_analysis/assets/117731315/8b54eff6-19eb-4404-92da-368c6cfbeec4)
 
 
