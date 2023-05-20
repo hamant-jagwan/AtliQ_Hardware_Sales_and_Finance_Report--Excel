@@ -28,6 +28,7 @@ so we complete our data cleaning checklists which are -
 3. Some 'design' tab work to make our report beautiful.
 4. Using `Condtional formatting` to highlight numbers.
 5. To insert a LOGO use 'Header Footer'
-6. And you are ready to apply filters and get what ever you want like I use this AtliQ hardware data to get **INDIA SALES.**
+6. And you are ready to apply filters and get what ever you want like I use this AtliQ hardware data to get **INDIA SALES.** 
+![India sales](https://github.com/hamant-jagwan/Excel_analysis/assets/117731315/4c7bb4a1-cb93-4061-befa-57d54f51f93a)
 
 
