@@ -10,11 +10,20 @@ fact_sales_monthly_with_cost: https://drive.google.com/drive/u/0/folders/1kODw9J
 3. So we need to join the two tables to make it simple first we rename the table *fact_sales_monthly_with_cost* to *finance_ref* and make a  group by selecting the tables and arrange them in groups:
 
 ![Screenshot (7)](https://github.com/hamant-jagwan/Excel_analysis/assets/117731315/6a017354-8b6e-4e2f-b009-0dbc4bf3e562)
+
 4. With the help of `power pivot` we connect our tables.
 5. And play with `PivotTable`and add 'new measures' to add data in PivotTable.
 6. Then we add new measures to get our first finance report which is **P & L by Year**
 7. After that we do some `conditional formatting` to understand our report. This is our  **P & L by Years**
+
 ![Screenshot (8)](https://github.com/hamant-jagwan/Excel_analysis/assets/117731315/9154b446-0bc5-488b-9b49-e266eff4d49f)
 
-## Now prepare P & L by Months report:
+## Now we prepare P & L by Months report: the Fiscal Year of AtliQ hardware is (sep - aug)
+
+1. In order to do that we first create Monthly and Quarterly division and we make it with the help of `PowerPivot`
+2. we append these columns in *dim_date* table with the help of `DAX functions`.
+3. Now, we have `PivotTable` to make our report if we need any new column we can add it with the help of 'Measures' tab of the  `PowerPivot`. 
+4. Here is our Monthly P &L overview.
+
+![Screenshot (9)](https://github.com/hamant-jagwan/Excel_analysis/assets/117731315/14671173-2da7-4a15-ad36-13c19f40b272)
 
