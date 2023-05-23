@@ -27,7 +27,7 @@ fact_sales_monthly_with_cost: https://drive.google.com/drive/u/0/folders/1kODw9J
 
 ![Screenshot (9)](https://github.com/hamant-jagwan/Excel_analysis/assets/117731315/14671173-2da7-4a15-ad36-13c19f40b272)
 
-# Check the like to access the Excel file:
+# Check the link to access the Excel file:
 https://docs.google.com/spreadsheets/d/1nEmiI5FqQtExq_zRWThZzDGNuqJNZ2xs/edit#gid=1005817107
 for sample we upload a `html file` in repository.
 
