@@ -29,16 +29,17 @@
     # Role of reports: 
     Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
-Technical Skills Gained:
- Proficiency in ETL methodology (Extract, Transform, Load).
- Skills to generate a date table using Power Query.
- Ability to derive fiscal months and quarters.
- Establishing data model relationships with Power Pivot.
- Proficiency in incorporating supplementary data into an existing data model.
- Utilizing DAX to create calculated columns.
-Soft Skills Gained:
- Refined understanding of Sales & Finance Reports
- Designing user-centric reports with empathy in mind.
- Optimization of report generation through meticulous fine-tuning.
- Developing a systematic approach to devising a report building plan.
+## Technical Skills Gained:
+1. Proficiency in *ETL* methodology *(Extract, Transform, Load)*.
+2. Skills to generate a date table using **Power Query**.
+3. Proficiency in **VLOOKUP, XLOOKUP, HLOOKUP, INDEX MATCH,** and skilled in using **Conditional Formatting**.
+4. Establishing *data model relationships* with **Power Pivot**.
+5. Proficiency in incorporating supplementary data into an existing data model.
+6. Utilizing **DAX** to create *Calculated Columns*.
+
+## Soft Skills Gained:
+     1. Refined understanding of Sales & Finance Reports
+     2. Designing user-centric reports with empathy in mind.
+     3. Optimization of report generation through meticulous fine-tuning.
+     4. Developing a systematic approach to devising a report building plan.
 
