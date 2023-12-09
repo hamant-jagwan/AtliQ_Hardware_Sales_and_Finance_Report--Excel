@@ -1,3 +1,6 @@
+
+![microsoft-excel^2016^excel-logo-new](https://github.com/hamant-jagwan/AtliQ_Hardware_Sales_and_Revenue_Report--Excel/assets/117731315/bf902b40-aa44-4f08-b8fd-c39c38c0e1f0)
+
 # Sales Report & Finance Report for AtliQ Hardware
 ## Sales Report :
     
