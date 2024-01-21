@@ -5,8 +5,8 @@
 ## Sales Report :
     
     # Project objective:
-    1. Create a customer performance report
-    2. Conduct a comprehensive comparison between market performance vs sales targets
+    1. Create a customer Net sales performance report
+    2. Conduct a comprehensive comparison between Market Performance vs Sales Targets
 
     # Purpose of sales analytics: 
     Empower businesses to monitor and evaluate their sales activities and performance.
@@ -17,6 +17,15 @@
     # Role of reports: 
     Determine effective customer discounts, facilitate negotiations with consumers, and 
     identify potential business expansion opportunities in promising countries.
+**The following image shows:**
+
+### --> the Power Pivot window in **Diagram view**
+![Screenshot 2024-01-21 124551](https://github.com/hamant-jagwan/AtliQ_Hardware_Sales_and_Revenue_Report--Excel/assets/117731315/469a72de-298a-4087-9ab1-9f79dea22ccd)
+### **--> Customer Net Sales Performance**
+![Screenshot 2024-01-21 132523](https://github.com/hamant-jagwan/AtliQ_Hardware_Sales_and_Revenue_Report--Excel/assets/117731315/63738a41-e78f-4481-b6d1-9a482f17bc93)
+### **--> Market Performance Vs Sales Target**
+![Screenshot 2024-01-21 132551](https://github.com/hamant-jagwan/AtliQ_Hardware_Sales_and_Revenue_Report--Excel/assets/117731315/6c3e3a29-0072-410e-b7a9-54e05f4f561d)
+
 
 ## Finance Report :
     # Project objective:
