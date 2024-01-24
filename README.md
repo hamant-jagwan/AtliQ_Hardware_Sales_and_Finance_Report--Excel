@@ -17,7 +17,7 @@
     # Role of reports: 
     Determine effective customer discounts, facilitate negotiations with consumers, and 
     identify potential business expansion opportunities in promising countries.
-**The following image shows:**
+**--The following image shows:--**
 
 ### --> the Power Pivot window in **Diagram view**
 ![Screenshot 2024-01-21 124551](https://github.com/hamant-jagwan/AtliQ_Hardware_Sales_and_Revenue_Report--Excel/assets/117731315/469a72de-298a-4087-9ab1-9f79dea22ccd)
@@ -40,6 +40,15 @@
 
     # Role of reports: 
     Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+**--The following image shows:--**
+### --> the Power Pivot window in **Diagram view**
+![Screenshot 2024-01-24 125315](https://github.com/hamant-jagwan/AtliQ_Hardware_Sales_and_Finance_Report--Excel/assets/117731315/9ad599d2-350c-4489-911c-22f82acfcb19)
+
+### **--> P & L by Years**
+![Screenshot 2024-01-24 124952](https://github.com/hamant-jagwan/AtliQ_Hardware_Sales_and_Finance_Report--Excel/assets/117731315/deb23796-3248-4e17-b80e-175eeb4210bd)
+
+### **--> P & L Months**
+![Screenshot 2024-01-24 125034](https://github.com/hamant-jagwan/AtliQ_Hardware_Sales_and_Finance_Report--Excel/assets/117731315/c4aa136f-f632-4d90-b171-05a9edb3c00f)
 
 ## Technical Skills Gained:
 1. Proficiency in *ETL* methodology *(Extract, Transform, Load)*.
